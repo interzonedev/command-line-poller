@@ -10,9 +10,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Simple {@link Poller} implemenation that takes a {@link PollProcessor} to call back on command line input.
- * 
- * @author interzone
- * 
  */
 public class DefaultPoller implements Poller {
 

@@ -1,6 +1,8 @@
+target/
 .classpath
 .project
 .settings/
+.springBeans
 *.jpage
-target/
-
+.idea/
+*.iml
